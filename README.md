@@ -9,7 +9,21 @@
 * 台湾大学--李宏毅的《李宏毅深度学习教程》. 地址: [[LeeDL-Tutorial](https://github.com/datawhalechina/leedl-tutorial)]
 * 斯坦福大学--吴恩达的《吴恩达老师的机器学习课程个人笔记》. 地址: [[DeepLearning-AI](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)]
 * 清华大学--唐杰的《高级机器学习》, 其分为基础篇、进阶篇、高级篇. 地址: [[AMiner](https://www.aminer.cn/aml)] 
-  
+
+<p align="center">
+<img align="middle" src="https://github.com/JKZuo/Learning-Resources-for-Deep-Learning/blob/main/fig1.png"/>
+</p>
+<p align = "center">
+<b>Figure 1. Research Progress in Deep Learning. </b> 
+</p>
+
+<p align="center">
+<img align="middle" src="https://github.com/JKZuo/Learning-Resources-for-Deep-Learning/blob/main/fig2.png"/>
+</p>
+<p align = "center">
+<b>Figure 2. Research Progress in Representation Learning for Networks. </b> 
+</p>
+
 ## 书籍资料
 
 * 《深度学习》花书，由三位全球知名专家IanGoodfellow、YoshuaBengio、AaronCourville编著. 地址: [[深度学习AI圣经(Deep Learning)](https://github.com/MingchaoZhu/DeepLearning)] 
