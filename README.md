@@ -2,7 +2,7 @@
 
 汇总并分享一些适用于**本科生(大一~大四)+硕士/直博一年级**的同学想要开始学习深度学习进行**【比赛 (数学建模、数据挖掘竞赛、AI类竞赛等等) + 发论文+ 起步科研】**的资料/资源总结
 
-✨ **本仓库始建于2024-9-30号**，持续更新中~，别急哦!
+✨ **本仓库始建于2024-10-1号**，【2024-11-4号】更新一次，持续更新中~，别急哦!
 
 ## 课程
 
@@ -49,5 +49,24 @@
 * PyTorch-计算机视觉CV学习. 地址: [[PyTorch-CV)](https://github.com/AccumulateMore/CV)]
   
 ## 有数据集的比赛网站
+
+## 深度学习DL领域中里程碑式的15个模型
+| NO. | Year | Model | 1st-Author | Title | Publication | 
+|:--:| :--: | :--: | :--: | :--: | :--: |
+| 1 | 1997 | LSTM | Sepp Hochreiter | Long Short-Term Memory | Neural Computation |
+| 2 | 1998 | CNN | Yann LeCun | Gradient-Based Learning Applied to Document Recognition | Proceedings of the IEEE |
+| 3 | 2012 | AlexNet | Alex Krizhevsky | ImageNet Classification with Deep Convolutional Neural Networks | NeurIPS |
+| 4 | 2014 | GRU | Kyunghyun Cho | Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation | EMNLP |
+| 5 | 2014 | GAN | Ian J. Goodfellow | Generative Adversarial Networks | NeurIPS |
+| 6 | 2015 | Attention | Dzmitry Bahdanau | Neural Machine Translation by Jointly Learning to Align and Translate | ICLR |
+| 7 | 2015 | VGGNet | Karen Simonyan | Very Deep Convolutional Networks for Large-Scale Image Recognition | ICLR |
+| 8 | 2015 | U-Net | Olaf Ronneberger | U-Net: Convolutional Networks for Biomedical Image Segmentation | MICCAI |
+| 9 | 2016 | ResNet | Kaiming He | Deep Residual Learning for Image Recognition | CVPR |
+| 10 | 2017 | Transformer | Ashish Vaswani | Attention Is All You Need | NeurIPS |
+| 11 | 2017 | GCN | Kipf, Thomas N | Semi-Supervised Classification with Graph Convolutional Networks | ICLR |
+| 12 | 2018 | GAT | P. Veliˇckovi´c | Graph Attention Networks |  ICLR |
+| 13 | 2018 | GPT | Alec Radford | Improving Language Understanding by Generative Pre-training | OpenAI Blog |
+| 14 | 2019 | BERT | Jacob Devlin | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | NAACL-HLT |
+| 15 | 2020 | Diffusion | Jonathan Ho | Denoising Diffusion Probabilistic Models | NeurIPS |
 
 * 更新中，别急~
