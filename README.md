@@ -69,4 +69,11 @@
 | 14 | 2019 | BERT | Jacob Devlin | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | NAACL-HLT |
 | 15 | 2020 | Diffusion | Jonathan Ho | Denoising Diffusion Probabilistic Models | NeurIPS |
 
+<p align="center">
+<img align="middle" src="https://github.com/JKZuo/Learning-Resources-for-Deep-Learning/blob/main/fig3.png"/>
+</p>
+<p align = "center">
+<b>Figure 3. Milestone Models in the Field of Deep Learning (DL). </b> 
+</p>
+
 * 更新中，别急~
