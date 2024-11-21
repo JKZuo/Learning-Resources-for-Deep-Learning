@@ -1,6 +1,6 @@
 # 深度学习的学习资源-Learning Resources for Deep Learning (LR4DL)
 
-✨ 汇总并分享一些适用于**本科生(大一~大四)+硕士/直博一年级**的同学想要开始学习深度学习进行 **【比赛 (数学建模、数据挖掘竞赛、AI类竞赛等等) + 发论文+ 起步科研】** 的资料/资源总结
+✨ 汇总并分享一些适用于**本科生(大一~大四)+硕士/直博一年级**的同学想要开始学习深度学习进行 **【比赛 (数学建模、数据挖掘竞赛、AI类竞赛等等) + 发论文+ 起步科研】** 的资料/资源总结.
 
 ## 课程
 
@@ -68,7 +68,7 @@
 | 15 | 2020 | Diffusion | Jonathan Ho | Denoising Diffusion Probabilistic Models | NeurIPS |
 
 <p align="center">
-<img align="middle" src="https://github.com/JKZuo/Learning-Resources-for-Deep-Learning/blob/main/fig3.png"/>
+<img align="middle" src="https://github.com/JKZuo/Learning-Resources-for-Deep-Learning/blob/main/fig_3.png"/>
 </p>
 <p align = "center">
 <b>Figure 3. Milestone Models in the Field of Deep Learning (DL). </b> 
